@@ -9,8 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  },
   "dependencies": {
-    "eslint": "^8.18.0",
+    "eslint-config-prettier": "^8.5.0",
     "koa": "^2.13.4"
   }
 }
