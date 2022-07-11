@@ -17,5 +17,5 @@ app.use((ctx) => {
 });
 
 app.listen(4000, () => {
-    console.log('Listening to port 4000 부대복귀')
+    console.log('Listening to port 4000')
 })
